@@ -52,3 +52,5 @@ while True:
     # This for ensures that the program does not crash if the user provides an invalid input and the user only types 'yes' or 'no'
     else:
         print("You found me! And you also provided a invalid input. Only provide 'yes' or 'no' for this question. (Uppercase is okay.)")
+
+# In version 0.3, I shortened the code with Chatgpt's help by removing the redundant code to make the code better.

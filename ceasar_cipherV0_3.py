@@ -54,3 +54,6 @@ while True:
         print("You found me! And you also provided a invalid input. Only provide 'yes' or 'no' for this question. (Uppercase is okay.)")
 
 # In version 0.3, I shortened the code with Chatgpt's help by removing the redundant code to make the code better.
+# and I know that I can use git to track the changes between the versions.
+# I will use git to track the changes between the versions in the future. So for now, I will not use git to track the changes between the versions.
+# I will use git to track the changes between the versions in the future.
